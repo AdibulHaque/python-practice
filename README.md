@@ -31,6 +31,16 @@ To become highly proficient in Python and build a strong portfolio through consi
 
 ---
 
+## 📅 Progress
+
+| Day | Project Name                  |
+|-----|-------------------------------|
+| 1   | Hello World / Setup           |
+| 2   | Tip Calculator                |
+| 3   | Treasure Island Game          |
+| 4   | Rock Paper Scissors & More    |
+| ... | ...                           |
+
 ## 🛠 Tools & Tech
 
 - Python 3.x
