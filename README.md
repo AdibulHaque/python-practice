@@ -39,7 +39,7 @@ To become highly proficient in Python and build a strong portfolio through consi
 | 2   | Tip Calculator                 |
 | 3   | Treasure Island Game           |
 | 4   | Rock Paper Scissors & More     |
-| 5   | FizzBuzz & Password Generator  |
+| 5   | FizzBuzz & Password Generator (Easy + Hard)  |
 | ... | ...                            |
 
 ## 🛠 Tools & Tech
