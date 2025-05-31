@@ -33,14 +33,16 @@ To become highly proficient in Python and build a strong portfolio through consi
 
 ## 📅 Progress
 
-| Day | Project Name                   |
-|-----|--------------------------------|
-| 1   | Hello World / Setup            |
-| 2   | Tip Calculator                 |
-| 3   | Treasure Island Game           |
-| 4   | Rock Paper Scissors & More     |
-| 5   | FizzBuzz & Password Generator (Easy + Hard)  |
-| ... | ...                            |
+| Day | Project Name                                           |
+|-----|--------------------------------------------------------|
+| 1   | Hello World / Setup                                    |
+| 2   | Tip Calculator                                         |
+| 3   | Treasure Island Game                                   |
+| 4   | Rock Paper Scissors & More                             |
+| 5   | FizzBuzz & Password Generator (Easy + Hard)            |
+| 6   | Reeborg’s World Hurdle & Maze Challenges               |
+| ... | ...                                                    |
+
 
 ## 🛠 Tools & Tech
 
