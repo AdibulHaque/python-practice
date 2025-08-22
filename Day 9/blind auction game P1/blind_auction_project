@@ -1,0 +1,25 @@
+import art
+print(art.logo)
+all_bids = {} #empty dictonary for storing the inputs as key value pair
+#allbidValue = [] #for storing all bid values
+def new_function():
+    # TODO-1: Ask the user for input
+    bidder_name = input("What is your name?: ")
+    bidder_price = input("What is your bid?: ")
+    # TODO-2: Save data into dictionary {name: price}
+    all_bids[bidder_name] = int(bidder_price)
+    # TODO-3: Whether if new bids need to be added
+    new_bitter = input("Are there any other bidder? Type 'yes' or 'no'. \n ").lower()
+    if new_bitter == "yes":
+        print("\n" * 100)
+        new_function()
+    elif new_bitter == "no":
+        print(all_bids.values())
+
+# TODO-4: Compare bids in dictionary
+new_function()
+max_value = max(all_bids.values()) #take out the max value from all the bids
+print(max_value)
+for final_name in all_bids:
+    if all_bids[final_name] == max_value:
+        print(f"The winner is {final_name} with a bid of {max_value}")
